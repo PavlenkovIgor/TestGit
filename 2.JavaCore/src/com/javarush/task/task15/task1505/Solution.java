@@ -58,6 +58,7 @@ public class Solution {
         bodyParts.add(new BodyPart("Голова"));
         bodyParts.add(new BodyPart("Тело"));
         System.out.println(bodyParts.toString());
+        System.out.println("1");
 
     }
 
