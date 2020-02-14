@@ -3,8 +3,7 @@ package com.javarush.task.mywork;
 public class ClassesAndObjects {
     public static void main(String[] args) {
         Person person1 = new Person();
-        person1.name = "BOB";
-        person1.age = 22;
+        person1.setNameAndAge("Oleg", 59);
         person1.speak();
         person1.sayHello();
         int year1 = person1.calculateYearsToRetirement();

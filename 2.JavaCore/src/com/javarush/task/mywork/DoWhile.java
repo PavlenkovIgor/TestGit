@@ -1,7 +1,5 @@
 package com.javarush.task.mywork;
 
-import com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput;
-
 import java.util.Scanner;
 
 public class DoWhile {
