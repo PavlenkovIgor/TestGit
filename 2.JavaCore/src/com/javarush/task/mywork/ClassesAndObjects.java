@@ -22,8 +22,13 @@ public class ClassesAndObjects {
     }
 }
  class Person{
-    String name;
+     String name;
     int age;
+
+    void  setNameAndAge(String username, int userage){
+        name = username;
+        age = userage;
+    }
 
     int calculateYearsToRetirement()
     {
