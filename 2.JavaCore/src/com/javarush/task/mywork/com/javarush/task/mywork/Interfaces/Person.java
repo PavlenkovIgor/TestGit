@@ -1,6 +1,7 @@
 package com.javarush.task.mywork.Interfaces;
 
 public class Person {
+
     public String name;
 
     public Person(String name) {
